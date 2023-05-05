@@ -2,6 +2,10 @@
   "name": "canil-nodets",
   "version": "1.0.0",
   "description": "Projeto sem deploy",
+  "main": "index.js",
+  "engines": {
+    "node": "18.13.0"
+  },
   
   "scripts": {
     "tsc": "tsc",
